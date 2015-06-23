@@ -1,0 +1,17 @@
+c:\users\adel\documents\visual studio 2012\Projects\Civica\CodeTest.UnitTest\bin\Debug\CodeTest.UnitTest.dll
+c:\users\adel\documents\visual studio 2012\Projects\Civica\CodeTest.UnitTest\bin\Debug\CodeTest.UnitTest.pdb
+c:\users\adel\documents\visual studio 2012\Projects\Civica\CodeTest.UnitTest\bin\Debug\CodeTest.dll
+c:\users\adel\documents\visual studio 2012\Projects\Civica\CodeTest.UnitTest\bin\Debug\CodeTest.pdb
+c:\users\adel\documents\visual studio 2012\Projects\Civica\CodeTest.UnitTest\obj\Debug\CodeTest.UnitTest.csprojResolveAssemblyReference.cache
+c:\users\adel\documents\visual studio 2012\Projects\Civica\CodeTest.UnitTest\obj\Debug\CodeTest.UnitTest.dll
+c:\users\adel\documents\visual studio 2012\Projects\Civica\CodeTest.UnitTest\obj\Debug\CodeTest.UnitTest.pdb
+C:\Users\adel\Google Drive\Work\Employment\App.Test\Civica\CodeTest.UnitTest\obj\Debug\CodeTest.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\adel\Google Drive\Work\Employment\App.Test\Civica\CodeTest.UnitTest\obj\Debug\CodeTest.UnitTest.dll
+C:\Users\adel\Google Drive\Work\Employment\App.Test\Civica\CodeTest.UnitTest\obj\Debug\CodeTest.UnitTest.pdb
+C:\Users\adel\Google Drive\Work\Employment\App.Test\CampaignMonitor\CodeTest.UnitTest\obj\Debug\CodeTest.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\adel\Google Drive\Work\Employment\App.Test\CampaignMonitor\CodeTest.UnitTest\obj\Debug\CodeTest.UnitTest.dll
+C:\Users\adel\Google Drive\Work\Employment\App.Test\CampaignMonitor\CodeTest.UnitTest\obj\Debug\CodeTest.UnitTest.pdb
+C:\Users\adel\Google Drive\Work\Employment\App.Test\CampaignMonitor\CodeTest.UnitTest\bin\Debug\CodeTest.UnitTest.dll
+C:\Users\adel\Google Drive\Work\Employment\App.Test\CampaignMonitor\CodeTest.UnitTest\bin\Debug\CodeTest.UnitTest.pdb
+C:\Users\adel\Google Drive\Work\Employment\App.Test\CampaignMonitor\CodeTest.UnitTest\bin\Debug\CodeTest.dll
+C:\Users\adel\Google Drive\Work\Employment\App.Test\CampaignMonitor\CodeTest.UnitTest\bin\Debug\CodeTest.pdb
