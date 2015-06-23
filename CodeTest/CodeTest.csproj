@@ -62,7 +62,7 @@
     <Content Include="common\JQuery\jquery-1.9.1.js" />
     <Content Include="common\QUnit\qunit-1.14.0.css" />
     <Content Include="common\QUnit\qunit-1.14.0.js" />
-    <Content Include="Javascript.UnitTest.aspx" />
+    <Content Include="Default.aspx" />
     <Content Include="Javascript\Requirements5.js" />
     <Content Include="SQL\SQL.txt" />
     <Content Include="Web.config" />
@@ -72,12 +72,12 @@
     <Compile Include="CSharp\Requirements3.cs" />
     <Compile Include="CSharp\Requirements1.cs" />
     <Compile Include="CSharp\Requirements2.cs" />
-    <Compile Include="Javascript.UnitTest.aspx.cs">
-      <DependentUpon>Javascript.UnitTest.aspx</DependentUpon>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Javascript.UnitTest.aspx.designer.cs">
-      <DependentUpon>Javascript.UnitTest.aspx</DependentUpon>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

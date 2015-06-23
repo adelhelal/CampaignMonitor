@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Javascript.UnitTest.aspx.cs" Inherits="CodeTest.Index" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="CodeTest.Index" %>
 
 <!DOCTYPE html>
 
